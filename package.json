@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
+    "deck.gl": "^6.4.9",
     "next": "^8.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
